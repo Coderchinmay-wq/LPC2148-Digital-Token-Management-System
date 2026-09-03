@@ -235,16 +235,17 @@ The system generates the following sequence:
 
 ✅ Correct two-digit token display
 
+---
+
 ## 📸 Hardware Implementation
 
-Add photographs of your actual hardware here.
-
 <p align="center">
-  <img src="images/hardware_setup.jpg" width="750">
+  <img src="https://github.com/user-attachments/assets/b7a90524-ff4c-49bc-a46c-1d0a55d44c3c" width="750">
 </p>
 
 ### Example
 
+```
 LPC2148 Development Board
         │
         ├── GPIO Segment Lines
@@ -254,7 +255,8 @@ LPC2148 Development Board
 │  7-Segment Display  │
 │        4 7          │
 └─────────────────────┘
-
+```
+---
 📁 Repository Structure
 LPC2148-Digital-Token-Management-System/
 │
@@ -315,6 +317,7 @@ The current system can be extended with additional hardware and communication fe
 These extensions would transform the current sequential display prototype into a more complete queue-management system.
 
 ## 📚Concepts Demonstrated
+```
 
                 Embedded Systems
                        │
@@ -334,7 +337,7 @@ These extensions would transform the current sequential display prototype into a
                       │
                       ▼
                  00 → 99
-
+```
 ---
 
 ## 🛠️ Skills Demonstrated
