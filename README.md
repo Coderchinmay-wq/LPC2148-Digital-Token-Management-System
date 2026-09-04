@@ -192,12 +192,19 @@ The main control loop continuously handles the token display and counter operati
 ### Main Technologies
 
 Microcontroller : LPC2148
+
 CPU Architecture: ARM7
+
 Programming      : Embedded C
+
 IDE              : Keil µVision
+
 Display          : Dual 7-Segment
+
 Control          : GPIO
+
 Display Method   : Multiplexing
+
 Token Range      : 00–99
 
 ## 📊 Expected Output
@@ -258,6 +265,8 @@ LPC2148 Development Board
 ```
 ---
 📁 Repository Structure
+
+```
 LPC2148-Digital-Token-Management-System/
 │
 ├── README.md
@@ -280,6 +289,7 @@ LPC2148-Digital-Token-Management-System/
 │
 ├── .gitignore
 └── LICENSE
+```
 
 ## 🚀 Applications
 
@@ -396,9 +406,9 @@ Testing & Verification
 ## 📄 Documentation
 
 The complete project report is available in:
-
+```
 docs/ARM_Project_Report.pdf
-
+```
 ### The report contains:
 
 Project abstract
